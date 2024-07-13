@@ -1,0 +1,80 @@
+#upper-header{
+    display:flex;
+}
+#logo{
+    height: 150px;
+    width: 275px;
+    align-self: center;
+}
+#menu{
+    padding: 30px;
+    background-color:white;
+    border-color: black;
+    width: 1350px;
+    text-decoration-color: black;
+}
+.menu-text{
+    text-emphasis-color: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size:15px;
+    padding-top: 27px;
+    font-weight: bold;
+}
+span{
+    display:flex;
+}
+#footer{
+    background-color:white;
+    height: 150px;
+}
+.footer-text{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+#start{
+    height: 30px;
+    width: 60px;
+    border-radius:50%;
+    background-color: green;
+}
+#stop{
+    height: 30px;
+    width: 60px;
+    border-radius:50%;
+    background-color: red;
+}
+#reset{
+    height: 30px;
+    width: 60px;
+    border-radius:50%;
+    background-color:grey;
+}
+#mainstopwatch{
+    border-radius: 50%;
+    height:225px;
+    width:225px;
+    border-color: black;
+    background-color: lightslategray;
+    align-items: center;
+}
+#mainTime{
+    font-size: 35px;
+    height:40px;
+    width:150px ;
+    background-color:lightgreen;
+    align-items: center;
+    display:flex;
+}
+.icons{
+    width: 150px;
+    height: 150px;
+}
+.title{
+    font-weight:bold ;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+
+
